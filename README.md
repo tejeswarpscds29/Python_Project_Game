@@ -2,10 +2,8 @@
 
 Group Project
 Names : Tejeswar.p
-
-        Bhavadeep
-        
-        Sushmanth
+        ,Bhavadeep
+        ,Sushmanth
 Sec : 3
 
    Highway Racer - Ultimate Racing Game
